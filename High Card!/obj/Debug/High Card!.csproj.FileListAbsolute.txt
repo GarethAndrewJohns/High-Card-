@@ -1,0 +1,7 @@
+C:\Users\garet\Documents\Programming Projects\High Card!\High Card!\bin\Debug\High Card!.exe.config
+C:\Users\garet\Documents\Programming Projects\High Card!\High Card!\bin\Debug\High Card!.exe
+C:\Users\garet\Documents\Programming Projects\High Card!\High Card!\bin\Debug\High Card!.pdb
+C:\Users\garet\Documents\Programming Projects\High Card!\High Card!\obj\Debug\High Card!.csprojResolveAssemblyReference.cache
+C:\Users\garet\Documents\Programming Projects\High Card!\High Card!\obj\Debug\High Card!.exe
+C:\Users\garet\Documents\Programming Projects\High Card!\High Card!\obj\Debug\High Card!.pdb
+C:\Users\garet\Documents\Programming Projects\High Card!\High Card!\obj\Debug\High Card!.csproj.CoreCompileInputs.cache
